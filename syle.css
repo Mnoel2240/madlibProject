@@ -1,0 +1,29 @@
+body
+{
+     background-color: pink;   
+}
+
+p 
+{
+    text-align:center;
+    font-size: 17px;
+}
+
+span
+{
+   font-weight: bold;
+    color:blue;
+}
+input 
+{
+    text-align: center;
+}
+.button{
+background-color:red;
+color:white;
+border-radius:50px;
+
+}
+h1{
+    text-align:center;
+}
